@@ -1,6 +1,14 @@
 {
   "status": "on",
-  "expire": "2026-02-15",
-  "after_expire_msg": "⛔ Trial Expired\nDM to Buy",
-  "version": "1.0"
+
+  "start": "2026-02-08 06:00",
+  "expire": "2026-02-10 18:38",
+
+  "timezone": "Asia/Kolkata",
+
+  "before_start_msg": "⏳ Tool abhi start nahi hua\nPlease wait...",
+  "after_expire_msg": "⛔ Trial Expired\nDM @yourusername to Buy",
+
+  "version": "1.0",
+  "note": "Unauthorized sharing not allowed"
 }
