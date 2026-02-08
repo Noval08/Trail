@@ -1,14 +1,7 @@
 {
-  "status": "on",
-
-  "start": "2026-02-08 06:00",
-  "expire": "2026-02-10 18:38",
-
-  "timezone": "Asia/Kolkata",
-
-  "before_start_msg": "⏳ Tool abhi start nahi hua\nPlease wait...",
-  "after_expire_msg": "⛔ Trial Expired\nDM @yourusername to Buy",
-
-  "version": "1.0",
-  "note": "Unauthorized sharing not allowed"
+  "expiry": "2026-02-08 18:49",
+  "licenses": [
+    "NOVAL JI"
+  ],
+  "message": "❌ Trial expired.\n👉 DM on Telegram: @n9vwl"
 }
